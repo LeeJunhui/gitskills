@@ -1,3 +1,3 @@
 gitskills
-Creating a new bunch is quick & simple.
-=========
+Creating a new bunch is quick and simple.
+
